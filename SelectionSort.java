@@ -36,9 +36,9 @@ public static void sort( int arr[] ){
 
        arr[i] = arr[pos];
 
-       arr[pos]= temp;           
+       arr[pos]= temp;
 
-   }       
+   }
 
  }
 
